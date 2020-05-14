@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace csharpLessons
+namespace multidimentionalArrays
 {
   class Program
   {
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
-      
     }
   }
 }
